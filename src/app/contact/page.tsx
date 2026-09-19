@@ -40,7 +40,7 @@ export default function Contact() {
       />
       {/* Hidden static form — Netlify's build bot detects forms in the prerendered HTML.
           This must stay in sync with the visible ContactForm fields. */}
-      <form name="contact" data-netlify="true" data-netlify-honeypot="bot-field" hidden>
+      <form name="contact" data-netlify="true" data-netlify-honeypot="bot-field" encType="multipart/form-data" hidden>
         <input type="hidden" name="form-name" value="contact" />
         <input name="bot-field" />
         <input name="name" />
