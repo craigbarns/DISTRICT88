@@ -1,8 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 
-export const metadata = {
-  title: "Manufacturing Capabilities | DISTRICT 88",
-  description: "Explore our diverse manufacturing capabilities including Fashion, Sportswear, Cycling, Technical Apparel, and Swimwear.",
+export const metadata: Metadata = {
+  title: "Manufacturing Capabilities — Fashion, Sportswear, Cycling, Technical, Swimwear",
+  description:
+    "Explore the manufacturing capabilities of DISTRICT 88: Fashion & Lifestyle, Sportswear, Cycling, Technical Apparel, and Swimwear — unified by strict quality control and international communication.",
+  alternates: { canonical: "/capabilities" },
 };
 
 const capabilities = [
@@ -53,7 +56,7 @@ export default function Capabilities() {
           <div key={cap.slug} className={`flex flex-col ${i % 2 !== 0 ? 'md:flex-row-reverse' : 'md:flex-row'} gap-12 items-center`}>
             <div className="w-full md:w-1/2">
               <div className="aspect-[4/5] overflow-hidden bg-gray-100">
-                <img src={cap.img} alt={cap.title} className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
+                <img src={cap.img} alt={`${cap.title} garment manufacturing by DISTRICT 88 in China`} className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
               </div>
             </div>
             <div className="w-full md:w-1/2 space-y-6">

@@ -1,6 +1,11 @@
-export const metadata = {
-  title: "Manufacturing Services | DISTRICT 88",
-  description: "End-to-end garment manufacturing services in China from development to quality control.",
+import type { Metadata } from "next";
+import { site } from "@/lib/site";
+
+export const metadata: Metadata = {
+  title: "Manufacturing Services — Development to Quality Control",
+  description:
+    "End-to-end garment manufacturing services in China: product development, material sourcing, sampling, manufacturing, quality control, and private label packaging with international dispatch coordination.",
+  alternates: { canonical: "/services" },
 };
 
 const services = [
@@ -30,9 +35,30 @@ const services = [
   }
 ];
 
+const servicesJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "Garment Manufacturing Services — DISTRICT 88 LTD",
+  itemListElement: services.map((srv, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    item: {
+      "@type": "Service",
+      name: srv.title,
+      description: srv.desc,
+      provider: { "@id": `${site.url}/#organization` },
+      areaServed: "Worldwide",
+    },
+  })),
+};
+
 export default function Services() {
   return (
     <div className="pt-32 pb-24 px-6 md:px-12 max-w-7xl mx-auto min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(servicesJsonLd) }}
+      />
       <div className="mb-20 grid grid-cols-1 md:grid-cols-2 gap-12">
         <div>
           <h1 className="text-4xl md:text-6xl font-bold uppercase tracking-tight mb-6">Comprehensive Manufacturing Solutions.</h1>

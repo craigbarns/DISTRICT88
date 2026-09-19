@@ -1,6 +1,10 @@
-export const metadata = {
-  title: "About DISTRICT 88 LTD | Garment Manufacturer",
-  description: "Learn about DISTRICT 88 LTD, our Hong Kong headquarters, and our garment manufacturing operations in China.",
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About — Hong Kong HQ, China Operations",
+  description:
+    "DISTRICT 88 LTD is a garment development and manufacturing partner headquartered in Hong Kong with operations in Shanghai and Hangzhou, China — supporting international fashion, sportswear, and technical apparel brands.",
+  alternates: { canonical: "/about" },
 };
 
 export default function About() {
@@ -34,7 +38,7 @@ export default function About() {
         <div className="h-full min-h-[400px] relative">
           <img 
             src="/images/facility.jpg" 
-            alt="Manufacturing details" 
+            alt="DISTRICT 88 garment manufacturing facility details in China" 
             className="absolute inset-0 w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
           />
         </div>

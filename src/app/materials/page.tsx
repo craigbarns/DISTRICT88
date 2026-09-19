@@ -1,6 +1,10 @@
-export const metadata = {
-  title: "Premium Fabrics & Materials | DISTRICT 88",
-  description: "Explore our material expertise, from premium heavyweight cotton to advanced technical synthetics.",
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Fabrics & Materials — Cotton, Performance Synthetics, Technical Textiles",
+  description:
+    "Material expertise behind every DISTRICT 88 garment: premium heavyweight cotton and French Terry, performance synthetics, and technical textiles including quick-dry, moisture-wicking, and 4-way stretch fabrics.",
+  alternates: { canonical: "/materials" },
 };
 
 const materials = [
@@ -38,7 +42,7 @@ export default function Materials() {
         {materials.map((mat, i) => (
           <div key={i} className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className={`h-[500px] overflow-hidden ${i % 2 !== 0 ? 'md:order-2' : ''}`}>
-              <img src={mat.img} alt={mat.category} className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
+              <img src={mat.img} alt={`${mat.category} fabrics sourced by DISTRICT 88 for garment manufacturing`} className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
             </div>
             <div className={`space-y-6 ${i % 2 !== 0 ? 'md:order-1 md:text-right' : ''}`}>
               <h2 className="text-3xl font-bold uppercase tracking-wide">{mat.category}</h2>
