@@ -2,7 +2,7 @@ export const site = {
   name: "DISTRICT 88 LTD",
   shortName: "DISTRICT 88",
   legalName: "DISTRICT 88 LTD",
-  url: "https://www.district-88.com",
+  url: "https://district-88.com",
   email: "contact@district-88.com",
   phone: "+33 6 17 18 29 79",
   whatsapp: "https://wa.me/33617182979",

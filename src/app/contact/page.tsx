@@ -54,7 +54,7 @@ export default function Contact() {
       </form>
 
       <div className="mb-16">
-        <h1 className="text-4xl md:text-6xl font-bold uppercase tracking-tight mb-4">Let's build your next collection.</h1>
+        <h1 className="text-4xl md:text-6xl font-bold uppercase tracking-tight mb-4">Let&apos;s build your next collection.</h1>
         <p className="text-xl text-gray-600 font-light max-w-2xl">
           Tell us about your project and our team will review your requirements.
         </p>

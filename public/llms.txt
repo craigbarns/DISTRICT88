@@ -30,11 +30,11 @@
 
 ## Pages
 
-- [Home](https://www.district-88.com/): positioning, process overview, product categories
-- [Capabilities](https://www.district-88.com/capabilities): category-by-category manufacturing expertise
-- [Services](https://www.district-88.com/services): end-to-end manufacturing services
-- [Materials](https://www.district-88.com/materials): fabric and material expertise
-- [Our Work](https://www.district-88.com/our-work): selected projects and brand partnerships
-- [FAQ](https://www.district-88.com/faq): minimum order quantities, timelines, sampling, quality control, compliance
-- [About](https://www.district-88.com/about): company background and locations
-- [Contact](https://www.district-88.com/contact): project brief form and direct contact
+- [Home](https://district-88.com/): positioning, process overview, product categories
+- [Capabilities](https://district-88.com/capabilities): category-by-category manufacturing expertise
+- [Services](https://district-88.com/services): end-to-end manufacturing services
+- [Materials](https://district-88.com/materials): fabric and material expertise
+- [Our Work](https://district-88.com/our-work): selected projects and brand partnerships
+- [FAQ](https://district-88.com/faq): minimum order quantities, timelines, sampling, quality control, compliance
+- [About](https://district-88.com/about): company background and locations
+- [Contact](https://district-88.com/contact): project brief form and direct contact

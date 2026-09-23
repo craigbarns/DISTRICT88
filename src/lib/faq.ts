@@ -37,6 +37,6 @@ export const faqs = [
   {
     question: "How do I start a project with DISTRICT 88?",
     answer:
-      "Send a project brief through the contact page at www.district-88.com/contact — ideally with your tech pack, reference products, target materials, and estimated quantities — or reach out directly by email at contact@district-88.com. The team reviews each requirement individually.",
+      "Send a project brief through the contact page at district-88.com/contact — ideally with your tech pack, reference products, target materials, and estimated quantities — or reach out directly by email at contact@district-88.com. The team reviews each requirement individually.",
   },
 ];

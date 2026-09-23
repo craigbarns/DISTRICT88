@@ -204,7 +204,7 @@ export default function HomePage() {
       <section className="py-32 bg-background flex justify-center text-center px-6">
         <div className="max-w-3xl">
           <h2 className="text-4xl md:text-6xl font-bold uppercase tracking-tight mb-8">
-            Let's build your next collection.
+            Let&apos;s build your next collection.
           </h2>
           <p className="text-lg text-gray-600 mb-12 font-light">
             Tell us about your project and our team will review your requirements.
