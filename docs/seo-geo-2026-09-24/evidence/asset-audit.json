@@ -1,0 +1,192 @@
+{
+  "collected_date": "2026-09-24",
+  "method": "Public HTTP GET of assets found in 8 page HTML. Body bytes are uncompressed; JPEG identity compared by SHA256 with repo.",
+  "assets": [
+    {
+      "url": "/_next/static/chunks/19mx3mg6lkumu.js",
+      "status": 200,
+      "bytes": 28907,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/images/machine.jpg",
+      "status": 200,
+      "bytes": 739450,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/images/fashion.jpg",
+      "status": 200,
+      "bytes": 744381,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+      "status": 200,
+      "bytes": 48432,
+      "content_type": "font/woff2",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/_next/static/chunks/2gp574aj8x_-s.css",
+      "status": 200,
+      "bytes": 31424,
+      "content_type": "text/css; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/_next/static/chunks/1o42cb81ebaj5.js",
+      "status": 200,
+      "bytes": 13528,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/_next/static/chunks/0h2qsuyze9ds1.js",
+      "status": 200,
+      "bytes": 14377,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/images/swimwear.jpg",
+      "status": 200,
+      "bytes": 745202,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/images/technical.jpg",
+      "status": 200,
+      "bytes": 937368,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/images/cycling.jpg",
+      "status": 200,
+      "bytes": 986891,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "status": 200,
+      "bytes": 112594,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/images/sportswear.jpg",
+      "status": 200,
+      "bytes": 979230,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/_next/static/chunks/2qyr2zzqw7k6q.js",
+      "status": 200,
+      "bytes": 227963,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/images/tech-material.jpg",
+      "status": 200,
+      "bytes": 884309,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/_next/static/chunks/3pa9u6r__2za3.js",
+      "status": 200,
+      "bytes": 122199,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/_next/static/chunks/1ud1canzmbhr4.js",
+      "status": 200,
+      "bytes": 24185,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/images/facility.jpg",
+      "status": 200,
+      "bytes": 1014206,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/_next/static/chunks/0jvhpaew_uadu.js",
+      "status": 200,
+      "bytes": 6557,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/_next/static/chunks/1eh83f1trsv72.js",
+      "status": 200,
+      "bytes": 165160,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/images/cotton.jpg",
+      "status": 200,
+      "bytes": 753522,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/images/synthetic.jpg",
+      "status": 200,
+      "bytes": 1030375,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/_next/static/chunks/443ucb-t31nio.js",
+      "status": 200,
+      "bytes": 7218,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/images/hero.jpg",
+      "status": 200,
+      "bytes": 881645,
+      "content_type": "image/jpeg",
+      "cache": "public,max-age=0,must-revalidate",
+      "repo_matches_live": true
+    },
+    {
+      "url": "/_next/static/chunks/1qic11omvhb9x.js",
+      "status": 200,
+      "bytes": 1336,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    },
+    {
+      "url": "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+      "status": 200,
+      "bytes": 9721,
+      "content_type": "application/javascript; charset=UTF-8",
+      "cache": "public,max-age=0,must-revalidate"
+    }
+  ]
+}

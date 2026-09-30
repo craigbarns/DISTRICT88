@@ -1,0 +1,4149 @@
+{
+  "collected_at_utc": "2026-09-24T08:22:40Z",
+  "method": "Read-only HTTP GET; redirects followed; HTML parsed without JavaScript. Bytes are decoded response body bytes, not compressed transfer size. words includes navigation and footer, excludes scripts.",
+  "pages": [
+    {
+      "url": "https://district-88.com/",
+      "final_url": "https://district-88.com/",
+      "status": 200,
+      "bytes": 45442,
+      "title": "DISTRICT 88 LTD | Premium Garment Manufacturer in China — Fashion, Sportswear, Technical Apparel",
+      "headings": [
+        [
+          "h1",
+          "From Concept to Production."
+        ],
+        [
+          "h2",
+          "More Than Manufacturing."
+        ],
+        [
+          "h2",
+          "What We Make"
+        ],
+        [
+          "h3",
+          "Fashion & Lifestyle"
+        ],
+        [
+          "h3",
+          "Sportswear"
+        ],
+        [
+          "h3",
+          "Cycling"
+        ],
+        [
+          "h3",
+          "Technical Apparel"
+        ],
+        [
+          "h3",
+          "Swimwear"
+        ],
+        [
+          "h2",
+          "One Partner. From Development to Production."
+        ],
+        [
+          "h3",
+          "Brief"
+        ],
+        [
+          "h3",
+          "Material Sourcing"
+        ],
+        [
+          "h3",
+          "Product Development"
+        ],
+        [
+          "h3",
+          "Sampling"
+        ],
+        [
+          "h3",
+          "Pre-Production"
+        ],
+        [
+          "h3",
+          "Manufacturing"
+        ],
+        [
+          "h3",
+          "Quality Control"
+        ],
+        [
+          "h2",
+          "Questions Brands Ask Us."
+        ],
+        [
+          "h2",
+          "Let's build your next collection."
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner in China (Hong Kong HQ, Shanghai & Hangzhou operations). Product development, material sourcing, sampling, bulk production, and quality control for international fashion, sportswear, cycling, technical apparel, and swimwear brands."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "From tech pack to bulk production — one partner for garment development, material sourcing, manufacturing, and quality control in China."
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/hero.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/machine.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/fashion.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/sportswear.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/cycling.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/technical.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/swimwear.jpg"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/faq",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/hero.jpg",
+          "alt": "Premium garment manufacturing at DISTRICT 88 — fabric and production detail",
+          "class": "w-full h-full object-cover opacity-80"
+        },
+        {
+          "src": "/images/machine.jpg",
+          "alt": "Garment production machinery at the DISTRICT 88 manufacturing facility in China",
+          "class": "absolute inset-0 w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-1000 shadow-2xl"
+        },
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Fashion & Lifestyle — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Sportswear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Cycling — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Apparel — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Swimwear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/1o42cb81ebaj5.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 575
+    },
+    {
+      "url": "https://district-88.com/capabilities",
+      "final_url": "https://district-88.com/capabilities",
+      "status": 200,
+      "bytes": 40117,
+      "title": "Manufacturing Capabilities — Fashion, Sportswear, Cycling, Technical, Swimwear | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Capabilities"
+        ],
+        [
+          "h2",
+          "Fashion & Lifestyle"
+        ],
+        [
+          "h2",
+          "Sportswear"
+        ],
+        [
+          "h2",
+          "Cycling"
+        ],
+        [
+          "h2",
+          "Technical Apparel"
+        ],
+        [
+          "h2",
+          "Swimwear"
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "Explore the manufacturing capabilities of DISTRICT 88: Fashion & Lifestyle, Sportswear, Cycling, Technical Apparel, and Swimwear — unified by strict quality control and international communication."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "property": "og:url",
+          "content": "https://district-88.com"
+        },
+        {
+          "property": "og:site_name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "DISTRICT 88 — premium garment development and manufacturing in China"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/fashion.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/sportswear.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/cycling.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/technical.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/swimwear.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/capabilities"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Fashion & Lifestyle garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Sportswear garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Cycling garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Apparel garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Swimwear garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 226
+    },
+    {
+      "url": "https://district-88.com/services",
+      "final_url": "https://district-88.com/services",
+      "status": 200,
+      "bytes": 39526,
+      "title": "Manufacturing Services — Development to Quality Control | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Comprehensive Manufacturing Solutions."
+        ],
+        [
+          "h3",
+          "Product Development"
+        ],
+        [
+          "h3",
+          "Material Sourcing"
+        ],
+        [
+          "h3",
+          "Sampling"
+        ],
+        [
+          "h3",
+          "Manufacturing"
+        ],
+        [
+          "h3",
+          "Quality Control"
+        ],
+        [
+          "h3",
+          "Packaging & Coordination"
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "End-to-end garment manufacturing services in China: product development, material sourcing, sampling, manufacturing, quality control, and private label packaging with international dispatch coordination."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "property": "og:url",
+          "content": "https://district-88.com"
+        },
+        {
+          "property": "og:site_name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "DISTRICT 88 — premium garment development and manufacturing in China"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/services"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"Garment Manufacturing Services — DISTRICT 88 LTD\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"Service\",\"name\":\"Product Development\",\"description\":\"Turning sketches and ideas into technical reality. We assist with pattern making, grading, and construction solutions.\",\"provider\":{\"@id\":\"https://district-88.com/#organization\"},\"areaServed\":\"Worldwide\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"Service\",\"name\":\"Material Sourcing\",\"description\":\"Leveraging our network in China to source the exact fabrics and trims your collection requires, balancing quality, performance, and cost.\",\"provider\":{\"@id\":\"https://district-88.com/#organization\"},\"areaServed\":\"Worldwide\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"Service\",\"name\":\"Sampling\",\"description\":\"Precision prototyping. We provide iterative sampling to ensure fit, fabric drape, and construction meet your exact standards before bulk production.\",\"provider\":{\"@id\":\"https://district-88.com/#organization\"},\"areaServed\":\"Worldwide\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"Service\",\"name\":\"Manufacturing\",\"description\":\"Scalable production lines equipped for both delicate fashion garments and complex technical sportswear.\",\"provider\":{\"@id\":\"https://district-88.com/#organization\"},\"areaServed\":\"Worldwide\"}},{\"@type\":\"ListItem\",\"position\":5,\"item\":{\"@type\":\"Service\",\"name\":\"Quality Control\",\"description\":\"Rigorous inspection protocols integrated at every stage of the manufacturing process, not just at the end.\",\"provider\":{\"@id\":\"https://district-88.com/#organization\"},\"areaServed\":\"Worldwide\"}},{\"@type\":\"ListItem\",\"position\":6,\"item\":{\"@type\":\"Service\",\"name\":\"Packaging & Coordination\",\"description\":\"Custom finishing, private label packaging, and coordination for seamless international dispatch.\",\"provider\":{\"@id\":\"https://district-88.com/#organization\"},\"areaServed\":\"Worldwide\"}}]}"
+        }
+      ],
+      "images": [],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 254
+    },
+    {
+      "url": "https://district-88.com/materials",
+      "final_url": "https://district-88.com/materials",
+      "status": 200,
+      "bytes": 36512,
+      "title": "Fabrics & Materials — Cotton, Performance Synthetics, Technical Textiles | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Materials Matter."
+        ],
+        [
+          "h2",
+          "Cotton & Blends"
+        ],
+        [
+          "h4",
+          "Materials"
+        ],
+        [
+          "h4",
+          "Applications"
+        ],
+        [
+          "h2",
+          "Performance Synthetics"
+        ],
+        [
+          "h4",
+          "Materials"
+        ],
+        [
+          "h4",
+          "Applications"
+        ],
+        [
+          "h2",
+          "Technical Textiles"
+        ],
+        [
+          "h4",
+          "Materials"
+        ],
+        [
+          "h4",
+          "Applications"
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "Material expertise behind every DISTRICT 88 garment: premium heavyweight cotton and French Terry, performance synthetics, and technical textiles including quick-dry, moisture-wicking, and 4-way stretch fabrics."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "property": "og:url",
+          "content": "https://district-88.com"
+        },
+        {
+          "property": "og:site_name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "DISTRICT 88 — premium garment development and manufacturing in China"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/cotton.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/synthetic.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/tech-material.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/materials"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/cotton.jpg",
+          "alt": "Cotton & Blends fabrics sourced by DISTRICT 88 for garment manufacturing",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/synthetic.jpg",
+          "alt": "Performance Synthetics fabrics sourced by DISTRICT 88 for garment manufacturing",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/tech-material.jpg",
+          "alt": "Technical Textiles fabrics sourced by DISTRICT 88 for garment manufacturing",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 200
+    },
+    {
+      "url": "https://district-88.com/our-work",
+      "final_url": "https://district-88.com/our-work",
+      "status": 200,
+      "bytes": 43735,
+      "title": "Our Work — Garment Projects by Category | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Our Work."
+        ],
+        [
+          "h2",
+          "Heavyweight Cotton Program"
+        ],
+        [
+          "h2",
+          "Performance Sportswear Line"
+        ],
+        [
+          "h2",
+          "Aerodynamic Cycling Collection"
+        ],
+        [
+          "h2",
+          "Technical Outerwear Program"
+        ],
+        [
+          "h2",
+          "Resort & Competition Swimwear"
+        ],
+        [
+          "h2",
+          "Material Development Library"
+        ],
+        [
+          "h2",
+          "Your project could be next."
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "Selected garment development and manufacturing projects by DISTRICT 88: fashion & lifestyle, sportswear, cycling, technical apparel, and swimwear programs produced for international brands."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "Our Work | DISTRICT 88"
+        },
+        {
+          "property": "og:description",
+          "content": "Garment programs developed and manufactured in China for international fashion, sportswear, and technical apparel brands."
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/fashion.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/sportswear.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/cycling.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/technical.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/swimwear.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/tech-material.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/our-work"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Heavyweight Cotton Program — Fashion & Lifestyle garment manufacturing by DISTRICT 88",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Performance Sportswear Line — Sportswear garment manufacturing by DISTRICT 88",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Aerodynamic Cycling Collection — Cycling garment manufacturing by DISTRICT 88",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Outerwear Program — Technical Apparel garment manufacturing by DISTRICT 88",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Resort & Competition Swimwear — Swimwear garment manufacturing by DISTRICT 88",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/tech-material.jpg",
+          "alt": "Material Development Library — Materials garment manufacturing by DISTRICT 88",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 275
+    },
+    {
+      "url": "https://district-88.com/faq",
+      "final_url": "https://district-88.com/faq",
+      "status": 200,
+      "bytes": 46911,
+      "title": "FAQ — Garment Manufacturing in China | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Manufacturing in China, Answered."
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "Answers to common questions about working with DISTRICT 88: product categories, materials, tech packs, sampling, quality control, private label packaging, and how to start a garment manufacturing project in China."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "FAQ | DISTRICT 88"
+        },
+        {
+          "property": "og:description",
+          "content": "Minimums, materials, sampling, quality control — everything brands ask before manufacturing in China."
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/faq"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is DISTRICT 88 LTD and where is it based?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with China operations in Shanghai and Hangzhou. The company works with international fashion, sportswear, cycling, technical apparel, and swimwear brands.\"}},{\"@type\":\"Question\",\"name\":\"Which product categories does DISTRICT 88 manufacture?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"DISTRICT 88 manufactures five main categories: Fashion & Lifestyle (including heavyweight cotton jerseys, hoodies, and loungewear), Sportswear, Cycling apparel, Technical Apparel, and Swimwear — from delicate fashion garments to complex performance constructions.\"}},{\"@type\":\"Question\",\"name\":\"Does DISTRICT 88 handle product development and tech packs?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. DISTRICT 88 covers the full development cycle: pattern making, grading, construction solutions, material sourcing, and iterative sampling. Brands can arrive with a tech pack, a sketch, a physical sample, or just a concept.\"}},{\"@type\":\"Question\",\"name\":\"What materials can DISTRICT 88 source?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The sourcing network covers premium jersey and heavyweight cotton, French Terry, fleece, polyester, nylon, elastane blends, specialized mesh, quick-dry and moisture-wicking fabrics, breathable membranes, and 4-way stretch textiles. Certified organic cotton is available on request.\"}},{\"@type\":\"Question\",\"name\":\"How does the sampling process work?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sampling is iterative: a prototype is produced from the tech pack or reference, then fitted and adjusted until measurements, fabric drape, and construction meet the brand's standards. Only approved samples move to pre-production and bulk manufacturing.\"}},{\"@type\":\"Question\",\"name\":\"How is quality control managed during production?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Quality control is integrated at every stage of manufacturing — not only at the end. Inspections cover measurements, construction, finishing, and packaging, so issues are caught before goods are packed and dispatched.\"}},{\"@type\":\"Question\",\"name\":\"Can DISTRICT 88 support private label packaging and international shipping?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. The service scope includes custom finishing, private label packaging, and coordination for seamless international dispatch, so brands can focus on design and marketing while DISTRICT 88 handles technical execution and logistics.\"}},{\"@type\":\"Question\",\"name\":\"How do I start a project with DISTRICT 88?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Send a project brief through the contact page at district-88.com/contact — ideally with your tech pack, reference products, target materials, and estimated quantities — or reach out directly by email at contact@district-88.com. The team reviews each requirement individually.\"}}]}"
+        }
+      ],
+      "images": [],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/1qic11omvhb9x.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 485
+    },
+    {
+      "url": "https://district-88.com/about",
+      "final_url": "https://district-88.com/about",
+      "status": 200,
+      "bytes": 35058,
+      "title": "About — Hong Kong HQ, China Operations | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Built in China.Made for International Brands."
+        ],
+        [
+          "h2",
+          "Our Core Focus"
+        ],
+        [
+          "h2",
+          "Local Presence. International Business."
+        ],
+        [
+          "h3",
+          "Hong Kong"
+        ],
+        [
+          "h3",
+          "Shanghai"
+        ],
+        [
+          "h3",
+          "Hangzhou"
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "DISTRICT 88 LTD is a garment development and manufacturing partner headquartered in Hong Kong with operations in Shanghai and Hangzhou, China — supporting international fashion, sportswear, and technical apparel brands."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "property": "og:url",
+          "content": "https://district-88.com"
+        },
+        {
+          "property": "og:site_name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "DISTRICT 88 — premium garment development and manufacturing in China"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/facility.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/about"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/facility.jpg",
+          "alt": "DISTRICT 88 garment manufacturing facility details in China",
+          "class": "absolute inset-0 w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 209
+    },
+    {
+      "url": "https://district-88.com/contact",
+      "final_url": "https://district-88.com/contact",
+      "status": 200,
+      "bytes": 37554,
+      "title": "Contact — Start Your Garment Manufacturing Project | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Let's build your next collection."
+        ],
+        [
+          "h3",
+          "Direct Contact"
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "Start a garment manufacturing project with DISTRICT 88: send your tech pack, materials, timelines, and estimated quantities. Headquartered in Hong Kong, operating in Shanghai and Hangzhou, China."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "Contact | DISTRICT 88"
+        },
+        {
+          "property": "og:description",
+          "content": "Tell us about your collection and our team will review your requirements."
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/contact"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "https://wa.me/33617182979",
+        "mailto:contact@district-88.com",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"@id\":\"https://district-88.com/contact\",\"name\":\"Contact DISTRICT 88 LTD\",\"url\":\"https://district-88.com/contact\",\"about\":{\"@id\":\"https://district-88.com/#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}}}"
+        }
+      ],
+      "images": [],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/443ucb-t31nio.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 215
+    },
+    {
+      "url": "https://district-88.com/robots.txt",
+      "final_url": "https://district-88.com/robots.txt",
+      "status": 200,
+      "bytes": 444,
+      "body": "User-Agent: *\nAllow: /\n\nUser-Agent: GPTBot\nAllow: /\n\nUser-Agent: ChatGPT-User\nAllow: /\n\nUser-Agent: OAI-SearchBot\nAllow: /\n\nUser-Agent: ClaudeBot\nAllow: /\n\nUser-Agent: Claude-User\nAllow: /\n\nUser-Agent: PerplexityBot\nAllow: /\n\nUser-Agent: Google-Extended\nAllow: /\n\nUser-Agent: Applebot-Extended\nAllow: /\n\nUser-Agent: cohere-ai\nAllow: /\n\nUser-Agent: Bytespider\nAllow: /\n\nHost: https://district-88.com\nSitemap: https://district-88.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://district-88.com/sitemap.xml",
+      "final_url": "https://district-88.com/sitemap.xml",
+      "status": 200,
+      "bytes": 1013,
+      "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://district-88.com</loc>\n<changefreq>monthly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://district-88.com/capabilities</loc>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://district-88.com/services</loc>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://district-88.com/materials</loc>\n<changefreq>monthly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://district-88.com/our-work</loc>\n<changefreq>monthly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://district-88.com/faq</loc>\n<changefreq>monthly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://district-88.com/about</loc>\n<changefreq>yearly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://district-88.com/contact</loc>\n<changefreq>yearly</changefreq>\n<priority>0.9</priority>\n</url>\n</urlset>\n"
+    },
+    {
+      "url": "https://district-88.com/llms.txt",
+      "final_url": "https://district-88.com/llms.txt",
+      "status": 200,
+      "bytes": 2397,
+      "body": "# DISTRICT 88 LTD\n\n> DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. The company supports international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack development and material sourcing through sampling, bulk production, quality control, and export coordination.\n\n## Key facts\n\n- Legal name: DISTRICT 88 LTD\n- Type: B2B garment development & manufacturing (OEM / private label)\n- Head office: Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road, Tsim Sha Tsui, Hong Kong\n- China operations: Shanghai and Hangzhou, Zhejiang\n- Contact: contact@district-88.com\n- Markets served: international brands worldwide\n- Product categories: Fashion & Lifestyle, Sportswear, Cycling, Technical Apparel, Swimwear\n\n## Services\n\n- Product development (pattern making, grading, construction solutions)\n- Material sourcing (fabrics, trims, accessories; organic cotton available when certified)\n- Sampling (prototypes, fittings, iterative adjustments)\n- Pre-production (final specifications, materials, colors, details)\n- Manufacturing at scale (delicate fashion garments to complex technical sportswear)\n- Quality control (measurements, construction, finishing, packaging — integrated at every stage)\n- Packaging & export coordination (private label packaging, international dispatch)\n\n## Materials expertise\n\n- Cotton & blends: premium jersey, heavyweight cotton, French Terry, fleece\n- Performance synthetics: polyester, nylon, elastane blends, specialized mesh\n- Technical textiles: quick-dry, moisture-wicking, breathable membranes, 4-way stretch\n\n## Pages\n\n- [Home](https://district-88.com/): positioning, process overview, product categories\n- [Capabilities](https://district-88.com/capabilities): category-by-category manufacturing expertise\n- [Services](https://district-88.com/services): end-to-end manufacturing services\n- [Materials](https://district-88.com/materials): fabric and material expertise\n- [Our Work](https://district-88.com/our-work): selected projects and brand partnerships\n- [FAQ](https://district-88.com/faq): minimum order quantities, timelines, sampling, quality control, compliance\n- [About](https://district-88.com/about): company background and locations\n- [Contact](https://district-88.com/contact): project brief form and direct contact\n"
+    },
+    {
+      "url": "https://district-88.com/seo-audit-missing-20260924",
+      "final_url": "https://district-88.com/seo-audit-missing-20260924",
+      "status": 404,
+      "bytes": 30151,
+      "title": "404: This page could not be found.",
+      "headings": [
+        [
+          "h1",
+          "404"
+        ],
+        [
+          "h2",
+          "This page could not be found."
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "robots",
+          "content": "noindex"
+        },
+        {
+          "name": "description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "property": "og:url",
+          "content": "https://district-88.com"
+        },
+        {
+          "property": "og:site_name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "DISTRICT 88 — premium garment development and manufacturing in China"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 132
+    },
+    {
+      "url": "https://district-88.com/capabilities/",
+      "final_url": "https://district-88.com/capabilities",
+      "status": 200,
+      "bytes": 40117,
+      "title": "Manufacturing Capabilities — Fashion, Sportswear, Cycling, Technical, Swimwear | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Capabilities"
+        ],
+        [
+          "h2",
+          "Fashion & Lifestyle"
+        ],
+        [
+          "h2",
+          "Sportswear"
+        ],
+        [
+          "h2",
+          "Cycling"
+        ],
+        [
+          "h2",
+          "Technical Apparel"
+        ],
+        [
+          "h2",
+          "Swimwear"
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "Explore the manufacturing capabilities of DISTRICT 88: Fashion & Lifestyle, Sportswear, Cycling, Technical Apparel, and Swimwear — unified by strict quality control and international communication."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "property": "og:url",
+          "content": "https://district-88.com"
+        },
+        {
+          "property": "og:site_name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "DISTRICT 88 — premium garment development and manufacturing in China"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/fashion.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/sportswear.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/cycling.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/technical.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/swimwear.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/capabilities"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Fashion & Lifestyle garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Sportswear garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Cycling garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Apparel garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Swimwear garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 226
+    },
+    {
+      "url": "https://district-88.com/capabilities.html",
+      "final_url": "https://district-88.com/capabilities.html",
+      "status": 200,
+      "bytes": 40117,
+      "title": "Manufacturing Capabilities — Fashion, Sportswear, Cycling, Technical, Swimwear | DISTRICT 88",
+      "headings": [
+        [
+          "h1",
+          "Capabilities"
+        ],
+        [
+          "h2",
+          "Fashion & Lifestyle"
+        ],
+        [
+          "h2",
+          "Sportswear"
+        ],
+        [
+          "h2",
+          "Cycling"
+        ],
+        [
+          "h2",
+          "Technical Apparel"
+        ],
+        [
+          "h2",
+          "Swimwear"
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "Explore the manufacturing capabilities of DISTRICT 88: Fashion & Lifestyle, Sportswear, Cycling, Technical Apparel, and Swimwear — unified by strict quality control and international communication."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "property": "og:url",
+          "content": "https://district-88.com"
+        },
+        {
+          "property": "og:site_name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "DISTRICT 88 — premium garment development and manufacturing in China"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/fashion.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/sportswear.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/cycling.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/technical.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "preload",
+          "href": "/images/swimwear.jpg",
+          "as": "image"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com/capabilities"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Fashion & Lifestyle garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Sportswear garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Cycling garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Apparel garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Swimwear garment manufacturing by DISTRICT 88 in China",
+          "class": "w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 226
+    },
+    {
+      "url": "https://district-88.com/?utm_source=seo-audit",
+      "final_url": "https://district-88.com/?utm_source=seo-audit",
+      "status": 200,
+      "bytes": 45442,
+      "title": "DISTRICT 88 LTD | Premium Garment Manufacturer in China — Fashion, Sportswear, Technical Apparel",
+      "headings": [
+        [
+          "h1",
+          "From Concept to Production."
+        ],
+        [
+          "h2",
+          "More Than Manufacturing."
+        ],
+        [
+          "h2",
+          "What We Make"
+        ],
+        [
+          "h3",
+          "Fashion & Lifestyle"
+        ],
+        [
+          "h3",
+          "Sportswear"
+        ],
+        [
+          "h3",
+          "Cycling"
+        ],
+        [
+          "h3",
+          "Technical Apparel"
+        ],
+        [
+          "h3",
+          "Swimwear"
+        ],
+        [
+          "h2",
+          "One Partner. From Development to Production."
+        ],
+        [
+          "h3",
+          "Brief"
+        ],
+        [
+          "h3",
+          "Material Sourcing"
+        ],
+        [
+          "h3",
+          "Product Development"
+        ],
+        [
+          "h3",
+          "Sampling"
+        ],
+        [
+          "h3",
+          "Pre-Production"
+        ],
+        [
+          "h3",
+          "Manufacturing"
+        ],
+        [
+          "h3",
+          "Quality Control"
+        ],
+        [
+          "h2",
+          "Questions Brands Ask Us."
+        ],
+        [
+          "h2",
+          "Let's build your next collection."
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner in China (Hong Kong HQ, Shanghai & Hangzhou operations). Product development, material sourcing, sampling, bulk production, and quality control for international fashion, sportswear, cycling, technical apparel, and swimwear brands."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "From tech pack to bulk production — one partner for garment development, material sourcing, manufacturing, and quality control in China."
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/hero.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/machine.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/fashion.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/sportswear.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/cycling.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/technical.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/swimwear.jpg"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/faq",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/hero.jpg",
+          "alt": "Premium garment manufacturing at DISTRICT 88 — fabric and production detail",
+          "class": "w-full h-full object-cover opacity-80"
+        },
+        {
+          "src": "/images/machine.jpg",
+          "alt": "Garment production machinery at the DISTRICT 88 manufacturing facility in China",
+          "class": "absolute inset-0 w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-1000 shadow-2xl"
+        },
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Fashion & Lifestyle — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Sportswear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Cycling — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Apparel — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Swimwear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/1o42cb81ebaj5.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 575
+    },
+    {
+      "url": "http://district-88.com",
+      "final_url": "https://district-88.com/",
+      "status": 200,
+      "bytes": 45442,
+      "title": "DISTRICT 88 LTD | Premium Garment Manufacturer in China — Fashion, Sportswear, Technical Apparel",
+      "headings": [
+        [
+          "h1",
+          "From Concept to Production."
+        ],
+        [
+          "h2",
+          "More Than Manufacturing."
+        ],
+        [
+          "h2",
+          "What We Make"
+        ],
+        [
+          "h3",
+          "Fashion & Lifestyle"
+        ],
+        [
+          "h3",
+          "Sportswear"
+        ],
+        [
+          "h3",
+          "Cycling"
+        ],
+        [
+          "h3",
+          "Technical Apparel"
+        ],
+        [
+          "h3",
+          "Swimwear"
+        ],
+        [
+          "h2",
+          "One Partner. From Development to Production."
+        ],
+        [
+          "h3",
+          "Brief"
+        ],
+        [
+          "h3",
+          "Material Sourcing"
+        ],
+        [
+          "h3",
+          "Product Development"
+        ],
+        [
+          "h3",
+          "Sampling"
+        ],
+        [
+          "h3",
+          "Pre-Production"
+        ],
+        [
+          "h3",
+          "Manufacturing"
+        ],
+        [
+          "h3",
+          "Quality Control"
+        ],
+        [
+          "h2",
+          "Questions Brands Ask Us."
+        ],
+        [
+          "h2",
+          "Let's build your next collection."
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner in China (Hong Kong HQ, Shanghai & Hangzhou operations). Product development, material sourcing, sampling, bulk production, and quality control for international fashion, sportswear, cycling, technical apparel, and swimwear brands."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "From tech pack to bulk production — one partner for garment development, material sourcing, manufacturing, and quality control in China."
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/hero.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/machine.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/fashion.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/sportswear.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/cycling.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/technical.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/swimwear.jpg"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/faq",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/hero.jpg",
+          "alt": "Premium garment manufacturing at DISTRICT 88 — fabric and production detail",
+          "class": "w-full h-full object-cover opacity-80"
+        },
+        {
+          "src": "/images/machine.jpg",
+          "alt": "Garment production machinery at the DISTRICT 88 manufacturing facility in China",
+          "class": "absolute inset-0 w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-1000 shadow-2xl"
+        },
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Fashion & Lifestyle — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Sportswear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Cycling — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Apparel — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Swimwear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/1o42cb81ebaj5.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 575
+    },
+    {
+      "url": "https://www.district-88.com",
+      "final_url": "https://district-88.com/",
+      "status": 200,
+      "bytes": 45442,
+      "title": "DISTRICT 88 LTD | Premium Garment Manufacturer in China — Fashion, Sportswear, Technical Apparel",
+      "headings": [
+        [
+          "h1",
+          "From Concept to Production."
+        ],
+        [
+          "h2",
+          "More Than Manufacturing."
+        ],
+        [
+          "h2",
+          "What We Make"
+        ],
+        [
+          "h3",
+          "Fashion & Lifestyle"
+        ],
+        [
+          "h3",
+          "Sportswear"
+        ],
+        [
+          "h3",
+          "Cycling"
+        ],
+        [
+          "h3",
+          "Technical Apparel"
+        ],
+        [
+          "h3",
+          "Swimwear"
+        ],
+        [
+          "h2",
+          "One Partner. From Development to Production."
+        ],
+        [
+          "h3",
+          "Brief"
+        ],
+        [
+          "h3",
+          "Material Sourcing"
+        ],
+        [
+          "h3",
+          "Product Development"
+        ],
+        [
+          "h3",
+          "Sampling"
+        ],
+        [
+          "h3",
+          "Pre-Production"
+        ],
+        [
+          "h3",
+          "Manufacturing"
+        ],
+        [
+          "h3",
+          "Quality Control"
+        ],
+        [
+          "h2",
+          "Questions Brands Ask Us."
+        ],
+        [
+          "h2",
+          "Let's build your next collection."
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner in China (Hong Kong HQ, Shanghai & Hangzhou operations). Product development, material sourcing, sampling, bulk production, and quality control for international fashion, sportswear, cycling, technical apparel, and swimwear brands."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "From tech pack to bulk production — one partner for garment development, material sourcing, manufacturing, and quality control in China."
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/hero.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/machine.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/fashion.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/sportswear.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/cycling.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/technical.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/swimwear.jpg"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/faq",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/hero.jpg",
+          "alt": "Premium garment manufacturing at DISTRICT 88 — fabric and production detail",
+          "class": "w-full h-full object-cover opacity-80"
+        },
+        {
+          "src": "/images/machine.jpg",
+          "alt": "Garment production machinery at the DISTRICT 88 manufacturing facility in China",
+          "class": "absolute inset-0 w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-1000 shadow-2xl"
+        },
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Fashion & Lifestyle — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Sportswear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Cycling — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Apparel — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Swimwear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/1o42cb81ebaj5.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 575
+    },
+    {
+      "url": "http://www.district-88.com",
+      "final_url": "https://district-88.com/",
+      "status": 200,
+      "bytes": 45442,
+      "title": "DISTRICT 88 LTD | Premium Garment Manufacturer in China — Fashion, Sportswear, Technical Apparel",
+      "headings": [
+        [
+          "h1",
+          "From Concept to Production."
+        ],
+        [
+          "h2",
+          "More Than Manufacturing."
+        ],
+        [
+          "h2",
+          "What We Make"
+        ],
+        [
+          "h3",
+          "Fashion & Lifestyle"
+        ],
+        [
+          "h3",
+          "Sportswear"
+        ],
+        [
+          "h3",
+          "Cycling"
+        ],
+        [
+          "h3",
+          "Technical Apparel"
+        ],
+        [
+          "h3",
+          "Swimwear"
+        ],
+        [
+          "h2",
+          "One Partner. From Development to Production."
+        ],
+        [
+          "h3",
+          "Brief"
+        ],
+        [
+          "h3",
+          "Material Sourcing"
+        ],
+        [
+          "h3",
+          "Product Development"
+        ],
+        [
+          "h3",
+          "Sampling"
+        ],
+        [
+          "h3",
+          "Pre-Production"
+        ],
+        [
+          "h3",
+          "Manufacturing"
+        ],
+        [
+          "h3",
+          "Quality Control"
+        ],
+        [
+          "h2",
+          "Questions Brands Ask Us."
+        ],
+        [
+          "h2",
+          "Let's build your next collection."
+        ],
+        [
+          "h3",
+          "District 88 LTD"
+        ],
+        [
+          "h4",
+          "Explore"
+        ],
+        [
+          "h4",
+          "Direct Contact"
+        ]
+      ],
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        {
+          "name": "description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner in China (Hong Kong HQ, Shanghai & Hangzhou operations). Product development, material sourcing, sampling, bulk production, and quality control for international fashion, sportswear, cycling, technical apparel, and swimwear brands."
+        },
+        {
+          "name": "application-name",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "author",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "keywords",
+          "content": "garment manufacturer China,clothing manufacturer Hong Kong,apparel manufacturing China,sportswear manufacturer,cycling apparel manufacturer,swimwear manufacturer,technical apparel manufacturing,fashion garment factory China,OEM clothing manufacturer,private label apparel China,tech pack development,garment sampling China,apparel quality control China"
+        },
+        {
+          "name": "creator",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "publisher",
+          "content": "DISTRICT 88 LTD"
+        },
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "googlebot",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1"
+        },
+        {
+          "property": "og:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "property": "og:description",
+          "content": "From tech pack to bulk production — one partner for garment development, material sourcing, manufacturing, and quality control in China."
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "twitter:title",
+          "content": "DISTRICT 88 LTD | Premium Garment Manufacturer in China"
+        },
+        {
+          "name": "twitter:description",
+          "content": "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production."
+        },
+        {
+          "name": "twitter:image",
+          "content": "https://district-88.com/images/hero.jpg"
+        },
+        {
+          "name": "next-size-adjust",
+          "content": ""
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "href": "/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+          "as": "font",
+          "crossorigin": "",
+          "type": "font/woff2"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/hero.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/machine.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/fashion.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/sportswear.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/cycling.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/technical.jpg"
+        },
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "/images/swimwear.jpg"
+        },
+        {
+          "rel": "stylesheet",
+          "href": "/_next/static/chunks/2gp574aj8x_-s.css",
+          "data-precedence": "next"
+        },
+        {
+          "rel": "preload",
+          "as": "script",
+          "fetchpriority": "low",
+          "href": "/_next/static/chunks/0jvhpaew_uadu.js"
+        },
+        {
+          "rel": "preload",
+          "href": "https://www.googletagmanager.com/gtag/js?id=G-EZE5Z3DLD3",
+          "as": "script"
+        },
+        {
+          "rel": "author",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://district-88.com"
+        },
+        {
+          "rel": "icon",
+          "href": "/icon.svg?icon.25lraa25x4o1m.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ],
+      "a": [
+        "/",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "/contact",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/capabilities",
+        "/faq",
+        "/contact",
+        "https://wa.me/33617182979",
+        "/capabilities",
+        "/services",
+        "/materials",
+        "/our-work",
+        "/faq",
+        "/about",
+        "/contact",
+        "mailto:contact@district-88.com"
+      ],
+      "jsonld": [
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://district-88.com/#organization\",\"name\":\"DISTRICT 88 LTD\",\"legalName\":\"DISTRICT 88 LTD\",\"url\":\"https://district-88.com\",\"description\":\"DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"slogan\":\"Premium Garment Development & Manufacturing in China\",\"knowsAbout\":[\"Fashion & Lifestyle\",\"Sportswear\",\"Cycling\",\"Technical Apparel\",\"Swimwear\"],\"keywords\":\"garment manufacturer China, clothing manufacturer Hong Kong, apparel manufacturing China, sportswear manufacturer, cycling apparel manufacturer, swimwear manufacturer, technical apparel manufacturing, fashion garment factory China, OEM clothing manufacturer, private label apparel China, tech pack development, garment sampling China, apparel quality control China\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"},\"location\":[{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hong Kong (Head Office)\",\"address\":{\"streetAddress\":\"Unit No. 532B, 5/F, Star House, No. 3 Salisbury Road\",\"addressLocality\":\"Tsim Sha Tsui\",\"addressRegion\":\"Kowloon\",\"addressCountry\":\"HK\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Shanghai (China Operations)\",\"address\":{\"addressLocality\":\"Shanghai\",\"addressCountry\":\"CN\"}},{\"@type\":\"Place\",\"name\":\"DISTRICT 88 LTD — Hangzhou (China Operations)\",\"address\":{\"addressLocality\":\"Hangzhou\",\"addressRegion\":\"Zhejiang\",\"addressCountry\":\"CN\"}}],\"contactPoint\":[{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"email\":\"contact@district-88.com\",\"telephone\":\"+33 6 17 18 29 79\",\"availableLanguage\":[\"English\",\"Chinese\"],\"areaServed\":\"Worldwide\"}]}"
+        },
+        {
+          "attrs": {
+            "type": "application/ld+json"
+          },
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://district-88.com/#website\",\"url\":\"https://district-88.com\",\"name\":\"DISTRICT 88 LTD\",\"publisher\":{\"@id\":\"https://district-88.com/#organization\"},\"inLanguage\":\"en\"}"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/hero.jpg",
+          "alt": "Premium garment manufacturing at DISTRICT 88 — fabric and production detail",
+          "class": "w-full h-full object-cover opacity-80"
+        },
+        {
+          "src": "/images/machine.jpg",
+          "alt": "Garment production machinery at the DISTRICT 88 manufacturing facility in China",
+          "class": "absolute inset-0 w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-1000 shadow-2xl"
+        },
+        {
+          "src": "/images/fashion.jpg",
+          "alt": "Fashion & Lifestyle — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/sportswear.jpg",
+          "alt": "Sportswear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/cycling.jpg",
+          "alt": "Cycling — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/technical.jpg",
+          "alt": "Technical Apparel — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        },
+        {
+          "src": "/images/swimwear.jpg",
+          "alt": "Swimwear — garment manufacturing by DISTRICT 88 in China",
+          "class": "absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
+        }
+      ],
+      "script_src": [
+        "/_next/static/chunks/19mx3mg6lkumu.js",
+        "/_next/static/chunks/2qyr2zzqw7k6q.js",
+        "/_next/static/chunks/1eh83f1trsv72.js",
+        "/_next/static/chunks/turbopack-1mxjvgz5yz_zv.js",
+        "/_next/static/chunks/0h2qsuyze9ds1.js",
+        "/_next/static/chunks/3pa9u6r__2za3.js",
+        "/_next/static/chunks/1ud1canzmbhr4.js",
+        "/_next/static/chunks/1o42cb81ebaj5.js",
+        "/_next/static/chunks/0cz1d0mv5g_q7.js",
+        "/_next/static/chunks/0jvhpaew_uadu.js"
+      ],
+      "words": 575
+    }
+  ]
+}
