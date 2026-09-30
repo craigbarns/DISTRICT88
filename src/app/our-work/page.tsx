@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { site } from "@/lib/site";
+import { site, createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Our Work — Garment Projects by Category",
@@ -14,6 +14,10 @@ export const metadata: Metadata = {
       "Garment programs developed and manufactured in China for international fashion, sportswear, and technical apparel brands.",
   },
 };
+
+const breadcrumbJsonLd = createBreadcrumbJsonLd([
+  { name: "Our Work", path: "/our-work" },
+]);
 
 const projects = [
   {
@@ -63,6 +67,10 @@ const projects = [
 export default function OurWork() {
   return (
     <div className="pt-32 pb-24 px-6 md:px-12 max-w-7xl mx-auto min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       <div className="mb-20 max-w-4xl">
         <h1 className="text-4xl md:text-6xl font-bold uppercase tracking-tight mb-6">Our Work.</h1>
         <p className="text-xl text-gray-600 font-light leading-relaxed">

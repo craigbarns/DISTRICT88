@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Fabrics & Materials — Cotton, Performance Synthetics, Technical Textiles",
@@ -6,6 +7,10 @@ export const metadata: Metadata = {
     "Material expertise behind every DISTRICT 88 garment: premium heavyweight cotton and French Terry, performance synthetics, and technical textiles including quick-dry, moisture-wicking, and 4-way stretch fabrics.",
   alternates: { canonical: "/materials" },
 };
+
+const breadcrumbJsonLd = createBreadcrumbJsonLd([
+  { name: "Materials", path: "/materials" },
+]);
 
 const materials = [
   {
@@ -31,6 +36,10 @@ const materials = [
 export default function Materials() {
   return (
     <div className="pt-32 pb-24 px-6 md:px-12 max-w-7xl mx-auto min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       <div className="mb-20 text-center max-w-3xl mx-auto">
         <h1 className="text-4xl md:text-6xl font-bold uppercase tracking-tight mb-6">Materials Matter.</h1>
         <p className="text-xl text-gray-600 font-light leading-relaxed">

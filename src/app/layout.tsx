@@ -41,6 +41,7 @@ const organizationJsonLd = {
       areaServed: "Worldwide",
     },
   ],
+  sameAs: [site.linkedin],
 };
 
 const websiteJsonLd = {

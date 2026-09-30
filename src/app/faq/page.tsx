@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import FaqAccordion from "@/components/FaqAccordion";
 import { faqs } from "@/lib/faq";
-import { site } from "@/lib/site";
+import { site, createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "FAQ — Garment Manufacturing in China",
@@ -15,6 +15,8 @@ export const metadata: Metadata = {
       "Minimums, materials, sampling, quality control — everything brands ask before manufacturing in China.",
   },
 };
+
+const breadcrumbJsonLd = createBreadcrumbJsonLd([{ name: "FAQ", path: "/faq" }]);
 
 const faqJsonLd = {
   "@context": "https://schema.org",
@@ -29,6 +31,10 @@ const faqJsonLd = {
 export default function FaqPage() {
   return (
     <div className="pt-32 pb-24 px-6 md:px-12 max-w-4xl mx-auto min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}

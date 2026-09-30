@@ -6,6 +6,7 @@ export const site = {
   email: "contact@district-88.com",
   phone: "+33 6 17 18 29 79",
   whatsapp: "https://wa.me/33617182979",
+  linkedin: "https://www.linkedin.com/company/district-88-ltd",
   description:
     "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.",
   tagline: "Premium Garment Development & Manufacturing in China",
@@ -55,3 +56,24 @@ export const navLinks = [
   { name: "FAQ", href: "/faq" },
   { name: "About", href: "/about" },
 ];
+
+export function createBreadcrumbJsonLd(items: { name: string; path: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: site.url,
+      },
+      ...items.map((item, index) => ({
+        "@type": "ListItem",
+        position: index + 2,
+        name: item.name,
+        item: `${site.url}${item.path}`,
+      })),
+    ],
+  };
+}

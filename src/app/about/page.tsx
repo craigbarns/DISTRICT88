@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About — Hong Kong HQ, China Operations",
@@ -7,9 +8,17 @@ export const metadata: Metadata = {
   alternates: { canonical: "/about" },
 };
 
+const breadcrumbJsonLd = createBreadcrumbJsonLd([
+  { name: "About", path: "/about" },
+]);
+
 export default function About() {
   return (
     <div className="pt-32 pb-24 px-6 md:px-12 max-w-7xl mx-auto min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       <div className="mb-20 max-w-4xl">
         <h1 className="text-4xl md:text-6xl font-bold uppercase tracking-tight mb-8">
           Built in China.<br />Made for International Brands.

@@ -180,6 +180,92 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* TRUST, CERTIFICATIONS & PRODUCTION METRICS */}
+      <section className="py-24 md:py-32 bg-white border-t border-border">
+        <div className="max-w-7xl mx-auto px-6 md:px-12">
+          <div className="max-w-3xl mb-16">
+            <p className="text-sm font-bold uppercase tracking-widest text-gray-400 mb-4">
+              Standards &amp; Verification
+            </p>
+            <h2 className="text-3xl md:text-5xl font-bold uppercase tracking-tight text-foreground mb-6">
+              Engineered for Compliance. Built for Scale.
+            </h2>
+            <p className="text-lg text-gray-600 font-light leading-relaxed">
+              We bridge international brand expectations with China&apos;s leading garment manufacturing clusters. From accessible MOQs to certified sustainable textiles, every order is backed by transparent metrics and rigorous oversight.
+            </p>
+          </div>
+
+          {/* Key Metrics Grid */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-20">
+            <div className="p-8 border border-border bg-gray-50/50 hover:border-foreground transition-colors">
+              <div className="text-3xl font-bold text-foreground mb-2">100–300 pcs</div>
+              <div className="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-3">Flexible MOQ</div>
+              <p className="text-sm text-gray-600 leading-relaxed font-light">
+                Accessible minimums per style/colorway for capsule drops, startup collections, and managed inventory risk.
+              </p>
+            </div>
+
+            <div className="p-8 border border-border bg-gray-50/50 hover:border-foreground transition-colors">
+              <div className="text-3xl font-bold text-foreground mb-2">7–14 Days</div>
+              <div className="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-3">Sampling Lead Time</div>
+              <p className="text-sm text-gray-600 leading-relaxed font-light">
+                Rapid proto-sampling and fit testing from confirmed tech packs, accelerating time-to-market before bulk sign-off.
+              </p>
+            </div>
+
+            <div className="p-8 border border-border bg-gray-50/50 hover:border-foreground transition-colors">
+              <div className="text-3xl font-bold text-foreground mb-2">30–45 Days</div>
+              <div className="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-3">Bulk Production</div>
+              <p className="text-sm text-gray-600 leading-relaxed font-light">
+                Predictable mass manufacturing schedules following Pre-Production Sample (PPS) sign-off, with weekly photo updates.
+              </p>
+            </div>
+
+            <div className="p-8 border border-border bg-gray-50/50 hover:border-foreground transition-colors">
+              <div className="text-3xl font-bold text-foreground mb-2">100% Final QC</div>
+              <div className="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-3">AQL 2.5 Audits</div>
+              <p className="text-sm text-gray-600 leading-relaxed font-light">
+                Multi-stage quality audits covering raw fabric shrinkage, in-line construction, dimensional tolerances, and packaging.
+              </p>
+            </div>
+          </div>
+
+          {/* Certifications & Frameworks */}
+          <div className="border border-border p-8 md:p-12 bg-foreground text-background">
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+              <div className="lg:col-span-5">
+                <span className="text-xs font-bold uppercase tracking-widest text-gray-400 block mb-2">Supply Chain Integrity</span>
+                <h3 className="text-2xl md:text-3xl font-bold uppercase tracking-tight text-white mb-4">
+                  Internationally Recognized Standards
+                </h3>
+                <p className="text-sm text-gray-300 font-light leading-relaxed">
+                  Our audited partner mills and manufacturing lines conform to global environmental and social governance standards, ensuring retail-ready compliance for EU, UK, and North American markets.
+                </p>
+              </div>
+
+              <div className="lg:col-span-7 grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <div className="border border-gray-800 p-5 bg-black/30">
+                  <div className="font-bold text-white uppercase text-sm tracking-wider mb-1">OEKO-TEX® 100</div>
+                  <p className="text-xs text-gray-400 font-light">Certified free from harmful chemicals and skin-irritating toxic dyes.</p>
+                </div>
+                <div className="border border-gray-800 p-5 bg-black/30">
+                  <div className="font-bold text-white uppercase text-sm tracking-wider mb-1">GRS Certified</div>
+                  <p className="text-xs text-gray-400 font-light">Verified recycled polyester and nylon chain-of-custody tracking.</p>
+                </div>
+                <div className="border border-gray-800 p-5 bg-black/30">
+                  <div className="font-bold text-white uppercase text-sm tracking-wider mb-1">BSCI &amp; Sedex Audited</div>
+                  <p className="text-xs text-gray-400 font-light">Ethical workplace governance, fair wages, and safe manufacturing conditions.</p>
+                </div>
+                <div className="border border-gray-800 p-5 bg-black/30">
+                  <div className="font-bold text-white uppercase text-sm tracking-wider mb-1">GOTS Organic Cotton</div>
+                  <p className="text-xs text-gray-400 font-light">Traceable organic cotton cultivation, certified upon request.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* FAQ TEASER */}
       <section className="py-32 px-6 md:px-12 bg-background">
         <div className="max-w-4xl mx-auto">
@@ -187,7 +273,7 @@ export default function HomePage() {
           <h2 className="text-3xl md:text-5xl font-bold uppercase tracking-tight mb-16">
             Questions Brands Ask Us.
           </h2>
-          <FaqAccordion items={faqs.slice(0, 4)} />
+          <FaqAccordion items={faqs.slice(0, 5)} />
           <div className="mt-12">
             <Link
               href="/faq"

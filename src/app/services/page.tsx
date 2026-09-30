@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { site } from "@/lib/site";
+import { site, createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Manufacturing Services — Development to Quality Control",
@@ -7,6 +7,10 @@ export const metadata: Metadata = {
     "End-to-end garment manufacturing services in China: product development, material sourcing, sampling, manufacturing, quality control, and private label packaging with international dispatch coordination.",
   alternates: { canonical: "/services" },
 };
+
+const breadcrumbJsonLd = createBreadcrumbJsonLd([
+  { name: "Services", path: "/services" },
+]);
 
 const services = [
   {
@@ -55,6 +59,10 @@ const servicesJsonLd = {
 export default function Services() {
   return (
     <div className="pt-32 pb-24 px-6 md:px-12 max-w-7xl mx-auto min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(servicesJsonLd) }}

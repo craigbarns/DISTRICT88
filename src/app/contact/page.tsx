@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import ContactForm from "@/components/ContactForm";
-import { site } from "@/lib/site";
+import { site, createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Contact — Start Your Garment Manufacturing Project",
@@ -13,6 +13,10 @@ export const metadata: Metadata = {
       "Tell us about your collection and our team will review your requirements.",
   },
 };
+
+const breadcrumbJsonLd = createBreadcrumbJsonLd([
+  { name: "Contact", path: "/contact" },
+]);
 
 const contactJsonLd = {
   "@context": "https://schema.org",
@@ -34,6 +38,10 @@ const contactJsonLd = {
 export default function Contact() {
   return (
     <div className="pt-32 pb-24 px-6 md:px-12 max-w-7xl mx-auto min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(contactJsonLd) }}
