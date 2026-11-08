@@ -11,6 +11,7 @@
 - Direct email: contact@district-88.com
 - Telephone / WhatsApp: +33 6 17 18 29 79
 - Markets served: European Union, United Kingdom, North America, Australia, and worldwide
+- Languages: English (default) and French (/fr) — hreflang en ↔ fr declared on every page
 - Product categories: Fashion & Lifestyle, Sportswear, Cycling, Technical Apparel, Swimwear
 - Production model: Hybrid structure combining Hong Kong commercial governance with on-the-ground technical merchandisers and specialized production partner facilities in the Yangtze River Delta textile basin.
 
@@ -65,3 +66,7 @@
 - [FAQ](https://district-88.com/faq): Explicit answers on MOQs (100–300 pcs), timelines (7–14d sample / 30–45d bulk), compliance, QC, and logistics.
 - [About](https://district-88.com/about): Corporate background, Hong Kong headquarters, Shanghai and Hangzhou operational hubs.
 - [Contact](https://district-88.com/contact): Project brief submission, direct email contact, and WhatsApp messaging.
+- [French version / Version française](https://district-88.com/fr): French-language home page for European brands.
+- [Services (FR)](https://district-88.com/fr/services): French version of the full-package services page.
+- [FAQ (FR)](https://district-88.com/fr/faq): French version of the FAQ (MOQ, timelines, certifications, EU delivery, REACH, GPSR).
+- [Contact (FR)](https://district-88.com/fr/contact): French version of the project brief form.

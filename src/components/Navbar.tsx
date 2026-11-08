@@ -7,7 +7,19 @@ import { Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { navLinks } from "@/lib/site";
 
-export default function Navbar() {
+interface NavbarProps {
+  links?: { name: string; href: string }[];
+  cta?: string;
+  ctaHref?: string;
+  darkHeroPaths?: string[];
+}
+
+export default function Navbar({
+  links = navLinks,
+  cta = "Start a Project",
+  ctaHref = "/contact",
+  darkHeroPaths = ["/"],
+}: NavbarProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const pathname = usePathname();
@@ -24,7 +36,7 @@ export default function Navbar() {
   // On the home page the top of the screen is the dark hero video/image,
   // so the transparent navbar must render white. Other pages start on a
   // light background and keep the default dark text.
-  const overDarkHero = !scrolled && pathname === "/";
+  const overDarkHero = !scrolled && darkHeroPaths.includes(pathname);
 
   return (
     <nav
@@ -41,7 +53,7 @@ export default function Navbar() {
 
         {/* Desktop Nav */}
         <div className="hidden lg:flex items-center space-x-8">
-          {navLinks.map((link) => (
+          {links.map((link) => (
             <Link
               key={link.name}
               href={link.href}
@@ -54,14 +66,14 @@ export default function Navbar() {
 
         <div className="hidden lg:flex">
           <Link
-            href="/contact"
+            href={ctaHref}
             className={`px-6 py-3 text-sm uppercase tracking-wider font-medium transition-colors ${
               overDarkHero
                 ? "bg-white text-foreground hover:bg-gray-200"
                 : "bg-foreground text-background hover:bg-accent"
             }`}
           >
-            Start a Project
+            {cta}
           </Link>
         </div>
 
@@ -85,7 +97,7 @@ export default function Navbar() {
             exit={{ opacity: 0, y: -20 }}
             className="absolute top-full left-0 w-full bg-white border-b border-border text-foreground flex flex-col items-center py-8 space-y-6 lg:hidden shadow-xl"
           >
-            {navLinks.map((link) => (
+            {links.map((link) => (
                <Link
                key={link.name}
                href={link.href}
@@ -96,11 +108,11 @@ export default function Navbar() {
              </Link>
             ))}
             <Link
-              href="/contact"
+              href={ctaHref}
               onClick={() => setIsOpen(false)}
               className="mt-4 px-8 py-4 bg-foreground text-background text-sm uppercase tracking-wider font-medium w-full max-w-xs text-center"
             >
-              Start a Project
+              {cta}
             </Link>
           </motion.div>
         )}

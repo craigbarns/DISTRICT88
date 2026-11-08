@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
-import { site, createBreadcrumbJsonLd } from "@/lib/site";
+import { site, createBreadcrumbJsonLd, alternatesFor } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Full-Package Garment Manufacturing Services",
   description:
     "One partner from tech pack to delivery: product development, material sourcing, sampling, bulk manufacturing, AQL quality control and DDP logistics to Europe.",
-  alternates: { canonical: "/services" },
+  alternates: alternatesFor('/services'),
 };
 
 const breadcrumbJsonLd = createBreadcrumbJsonLd([

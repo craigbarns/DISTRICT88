@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { site, createBreadcrumbJsonLd } from "@/lib/site";
+import { site, createBreadcrumbJsonLd, alternatesFor } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Garment Projects for European Brands",
   description:
     "Selected garment programs manufactured in China for European and international brands — from premium jersey essentials to technical performance collections.",
-  alternates: { canonical: "/our-work" },
+  alternates: alternatesFor('/our-work'),
   openGraph: {
     title: `Our Work | ${site.shortName}`,
     description:

@@ -2,8 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
+import Chrome from "@/components/Chrome";
 import { site } from "@/lib/site";
 
 const inter = Inter({
@@ -127,29 +126,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
         />
-        <Navbar />
-        <main className="min-h-screen">
-          {children}
-        </main>
-
-        {/* Discreet WhatsApp Icon */}
-        <a
-          href={site.whatsapp}
-          target="_blank"
-          rel="noreferrer"
-          aria-label="Chat with DISTRICT 88 on WhatsApp"
-          className="fixed bottom-6 right-6 z-50 group flex items-center gap-3"
-        >
-          <span className="hidden md:block opacity-0 group-hover:opacity-100 transition-opacity bg-white px-4 py-2 text-xs font-bold uppercase tracking-widest text-foreground shadow-lg border border-gray-100">
-            Have a project? Talk to our team.
-          </span>
-          <div className="w-12 h-12 bg-foreground text-background flex items-center justify-center rounded-none shadow-xl hover:bg-accent transition-colors">
-            {/* Minimalist Chat Icon simulating WhatsApp */}
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>
-          </div>
-        </a>
-
-        <Footer />
+        <Chrome>{children}</Chrome>
       </body>
     </html>
   );

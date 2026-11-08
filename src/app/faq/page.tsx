@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import FaqAccordion from "@/components/FaqAccordion";
 import { faqs } from "@/lib/faq";
-import { site, createBreadcrumbJsonLd } from "@/lib/site";
+import { site, createBreadcrumbJsonLd, alternatesFor } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "FAQ — Garment Manufacturing in China",
   description:
     "MOQ, timelines, certifications, Incoterms, EU delivery: clear answers on starting a garment manufacturing project in China with DISTRICT 88.",
-  alternates: { canonical: "/faq" },
+  alternates: alternatesFor('/faq'),
   openGraph: {
     title: `FAQ | ${site.shortName}`,
     description:

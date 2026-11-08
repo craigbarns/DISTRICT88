@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
-import { createBreadcrumbJsonLd } from "@/lib/site";
+import { createBreadcrumbJsonLd, alternatesFor } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About — China Production, European Team",
   description:
     "DISTRICT 88 LTD: Hong Kong HQ, Shanghai & Hangzhou operations, and a European-facing team — built for European brands producing in China.",
-  alternates: { canonical: "/about" },
+  alternates: alternatesFor('/about'),
 };
 
 const breadcrumbJsonLd = createBreadcrumbJsonLd([

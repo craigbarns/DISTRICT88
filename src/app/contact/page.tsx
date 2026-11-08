@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 import ContactForm from "@/components/ContactForm";
-import { site, createBreadcrumbJsonLd } from "@/lib/site";
+import { site, createBreadcrumbJsonLd, alternatesFor } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Contact — Start Your Production in China",
   description:
     "Start your garment production in China: send your tech pack and quantities. European contact, fast answers, MOQ from 100 pieces, DDP delivery to the EU.",
-  alternates: { canonical: "/contact" },
+  alternates: alternatesFor('/contact'),
   openGraph: {
     title: `Contact | ${site.shortName}`,
     description:

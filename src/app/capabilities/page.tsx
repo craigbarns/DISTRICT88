@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { createBreadcrumbJsonLd } from "@/lib/site";
+import { createBreadcrumbJsonLd, alternatesFor } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Garment Manufacturing Capabilities in China",
   description:
     "Manufacturing capabilities across fashion, sportswear, cycling, technical apparel and swimwear — with EU-ready compliance and quality control.",
-  alternates: { canonical: "/capabilities" },
+  alternates: alternatesFor('/capabilities'),
 };
 
 const breadcrumbJsonLd = createBreadcrumbJsonLd([

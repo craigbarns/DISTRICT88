@@ -6,7 +6,14 @@ export const metadata: Metadata = {
   title: "Garment Manufacturer in China for European Brands",
   description:
     "Garment manufacturing in China for European brands: development, sourcing, sampling, bulk production and QC. MOQ from 100 pieces, DDP delivery to the EU.",
-  alternates: { canonical: "/" },
+  alternates: {
+    canonical: "/",
+    languages: {
+      en: "https://district-88.com",
+      fr: "https://district-88.com/fr",
+      "x-default": "https://district-88.com",
+    },
+  },
   openGraph: {
     title: "Garment Manufacturer in China for European Brands | DISTRICT 88",
     description:

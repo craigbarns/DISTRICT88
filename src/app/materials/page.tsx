@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { createBreadcrumbJsonLd } from "@/lib/site";
+import { createBreadcrumbJsonLd, alternatesFor } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Fabric Sourcing & Materials in China",
   description:
     "Fabric sourcing in China: premium cottons, French Terry, performance synthetics, recycled textiles and waterproof-breathable membranes, tested to EU standards.",
-  alternates: { canonical: "/materials" },
+  alternates: alternatesFor('/materials'),
 };
 
 const breadcrumbJsonLd = createBreadcrumbJsonLd([

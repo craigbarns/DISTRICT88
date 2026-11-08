@@ -57,6 +57,29 @@ export const navLinks = [
   { name: "About", href: "/about" },
 ];
 
+export const frNavLinks = [
+  { name: "Capacités", href: "/capabilities" },
+  { name: "Services", href: "/services" },
+  { name: "Matières", href: "/materials" },
+  { name: "Réalisations", href: "/our-work" },
+  { name: "FAQ", href: "/faq" },
+  { name: "À propos", href: "/about" },
+];
+
+/** hreflang alternates for an EN path "" (home) or "/services" etc. */
+export function alternatesFor(path: string) {
+  const enPath = path || "/";
+  const frPath = `/fr${path || "/"}`;
+  return {
+    canonical: enPath,
+    languages: {
+      en: `${site.url}${enPath === "/" ? "" : enPath}`,
+      fr: `${site.url}${frPath === "/fr/" ? "/fr" : frPath}`,
+      "x-default": `${site.url}${enPath === "/" ? "" : enPath}`,
+    },
+  };
+}
+
 export function createBreadcrumbJsonLd(items: { name: string; path: string }[]) {
   return {
     "@context": "https://schema.org",
