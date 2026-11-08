@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import { site, createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Manufacturing Services — Development to Quality Control",
+  title: "Full-Package Garment Manufacturing Services",
   description:
-    "End-to-end garment manufacturing services in China: product development, material sourcing, sampling, manufacturing, quality control, and private label packaging with international dispatch coordination.",
+    "One partner from tech pack to delivery: product development, material sourcing, sampling, bulk manufacturing, AQL quality control and DDP logistics to Europe.",
   alternates: { canonical: "/services" },
 };
 

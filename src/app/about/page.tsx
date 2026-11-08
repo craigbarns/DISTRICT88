@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import { createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "About — Hong Kong HQ, China Operations",
+  title: "About — China Production, European Team",
   description:
-    "DISTRICT 88 LTD is a garment development and manufacturing partner headquartered in Hong Kong with operations in Shanghai and Hangzhou, China — supporting international fashion, sportswear, and technical apparel brands.",
+    "DISTRICT 88 LTD: Hong Kong HQ, Shanghai & Hangzhou operations, and a European-facing team — built for European brands producing in China.",
   alternates: { canonical: "/about" },
 };
 
@@ -21,10 +21,10 @@ export default function About() {
       />
       <div className="mb-20 max-w-4xl">
         <h1 className="text-4xl md:text-6xl font-bold uppercase tracking-tight mb-8">
-          Built in China.<br />Made for International Brands.
+          Built in China.<br />Made for European Brands.
         </h1>
         <p className="text-xl text-gray-600 font-light leading-relaxed">
-          DISTRICT 88 LTD is a garment development and manufacturing partner headquartered in Hong Kong with operations in Shanghai and Hangzhou. We support international fashion, sportswear, and lifestyle brands throughout product development, material sourcing, sampling, and production in China.
+          DISTRICT 88 LTD is a garment development and manufacturing partner headquartered in Hong Kong with operations in Shanghai and Hangzhou. We support European fashion, sportswear, and lifestyle brands throughout product development, material sourcing, sampling, and production in China — with a European contact, EU-ready compliance, and DDP delivery to the EU.
         </p>
       </div>
 
@@ -38,7 +38,7 @@ export default function About() {
               "Technical Development",
               "Manufacturing Scale",
               "Strict Quality Focus",
-              "International Communication"
+              "European-Facing Team"
             ].map((item, i) => (
               <li key={i} className="text-xl font-medium tracking-wide border-b border-gray-300 pb-2">{item}</li>
             ))}
@@ -46,8 +46,10 @@ export default function About() {
         </div>
         <div className="h-full min-h-[400px] relative">
           <img 
-            src="/images/facility.jpg" 
+            src="/images/facility.webp" 
             alt="DISTRICT 88 garment manufacturing facility details in China" 
+            loading="lazy"
+            decoding="async"
             className="absolute inset-0 w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
           />
         </div>

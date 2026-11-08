@@ -8,7 +8,7 @@ export const site = {
   whatsapp: "https://wa.me/33617182979",
   linkedin: "https://www.linkedin.com/company/district-88-ltd",
   description:
-    "DISTRICT 88 LTD is a premium garment development and manufacturing partner headquartered in Hong Kong, with operations in Shanghai and Hangzhou, China. We support international fashion, sportswear, cycling, technical apparel, and swimwear brands from tech pack to bulk production.",
+    "Garment manufacturing in China for European brands: development, sourcing, sampling, bulk production and QC. MOQ from 100 pieces, DDP delivery to the EU.",
   tagline: "Premium Garment Development & Manufacturing in China",
   keywords: [
     "garment manufacturer China",

@@ -7,12 +7,13 @@ import { site, createBreadcrumbJsonLd } from "@/lib/site";
 export const metadata: Metadata = {
   title: "FAQ — Garment Manufacturing in China",
   description:
-    "Answers to common questions about working with DISTRICT 88: product categories, materials, tech packs, sampling, quality control, private label packaging, and how to start a garment manufacturing project in China.",
+    "MOQ, timelines, certifications, Incoterms, EU delivery: clear answers on starting a garment manufacturing project in China with DISTRICT 88.",
   alternates: { canonical: "/faq" },
   openGraph: {
     title: `FAQ | ${site.shortName}`,
     description:
-      "Minimums, materials, sampling, quality control — everything brands ask before manufacturing in China.",
+      "Minimums, timelines, certifications, Incoterms and EU delivery — everything brands ask before manufacturing in China.",
+    images: ["/images/og-image.jpg"],
   },
 };
 

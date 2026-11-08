@@ -3,14 +3,15 @@ import ContactForm from "@/components/ContactForm";
 import { site, createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact — Start Your Garment Manufacturing Project",
+  title: "Contact — Start Your Production in China",
   description:
-    "Start a garment manufacturing project with DISTRICT 88: send your tech pack, materials, timelines, and estimated quantities. Headquartered in Hong Kong, operating in Shanghai and Hangzhou, China.",
+    "Start your garment production in China: send your tech pack and quantities. European contact, fast answers, MOQ from 100 pieces, DDP delivery to the EU.",
   alternates: { canonical: "/contact" },
   openGraph: {
     title: `Contact | ${site.shortName}`,
     description:
-      "Tell us about your collection and our team will review your requirements.",
+      "Send your tech pack and quantities — European contact, MOQ from 100 pieces, DDP delivery to the EU.",
+    images: ["/images/og-image.jpg"],
   },
 };
 

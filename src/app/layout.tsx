@@ -77,10 +77,10 @@ export const metadata: Metadata = {
     description: site.description,
     images: [
       {
-        url: "/images/hero.jpg",
+        url: "/images/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "DISTRICT 88 — premium garment development and manufacturing in China",
+        alt: "DISTRICT 88 — premium garment development and manufacturing in China for European brands",
       },
     ],
   },
@@ -88,7 +88,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: `${site.name} | Premium Garment Manufacturer in China`,
     description: site.description,
-    images: ["/images/hero.jpg"],
+    images: ["/images/og-image.jpg"],
   },
   robots: {
     index: true,

@@ -7,11 +7,11 @@ import FaqAccordion from "@/components/FaqAccordion";
 import { faqs } from "@/lib/faq";
 
 const categories = [
-  { name: "Fashion & Lifestyle", desc: "Everyday essentials to premium fashion collections — from heavy cotton jerseys to delicate finishes.", img: "/images/fashion.jpg" },
-  { name: "Sportswear", desc: "Performance garments engineered for movement, built on advanced synthetics and ergonomic construction.", img: "/images/sportswear.jpg" },
-  { name: "Cycling", desc: "Technical cycling apparel designed around performance, fit, and functionality — aerodynamic fits and advanced sublimation.", img: "/images/cycling.jpg" },
-  { name: "Technical Apparel", desc: "Advanced fabrics and constructions for demanding applications — moisture management, stretch, breathable panels.", img: "/images/technical.jpg" },
-  { name: "Swimwear", desc: "Custom swimwear combining fit, materials, and technical construction with high-stretch chlorine-resistant fabrics.", img: "/images/swimwear.jpg" },
+  { name: "Fashion & Lifestyle", desc: "Everyday essentials to premium fashion collections — from heavy cotton jerseys to delicate finishes.", img: "/images/fashion.webp" },
+  { name: "Sportswear", desc: "Performance garments engineered for movement, built on advanced synthetics and ergonomic construction.", img: "/images/sportswear.webp" },
+  { name: "Cycling", desc: "Technical cycling apparel designed around performance, fit, and functionality — aerodynamic fits and advanced sublimation.", img: "/images/cycling.webp" },
+  { name: "Technical Apparel", desc: "Advanced fabrics and constructions for demanding applications — moisture management, stretch, breathable panels.", img: "/images/technical.webp" },
+  { name: "Swimwear", desc: "Custom swimwear combining fit, materials, and technical construction with high-stretch chlorine-resistant fabrics.", img: "/images/swimwear.webp" },
 ];
 
 const stats = [
@@ -40,8 +40,10 @@ export default function HomePage() {
           <div className="absolute inset-0 bg-black/50 z-10"></div>
           {/* A high-end macro texture or factory detail for the hero */}
           <img
-            src="/images/hero.jpg"
-            alt="Premium garment manufacturing at DISTRICT 88 — fabric and production detail"
+            src="/images/hero.webp"
+            alt="Premium garment manufacturing at DISTRICT 88 — fabric and production detail for European brands"
+            fetchPriority="high"
+            decoding="async"
             className="w-full h-full object-cover opacity-80"
           />
         </div>
@@ -53,7 +55,7 @@ export default function HomePage() {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-7xl font-bold text-white uppercase tracking-tight mb-6"
           >
-            From Concept to Production.
+            From Concept to Production. For European Brands.
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -61,8 +63,9 @@ export default function HomePage() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-lg md:text-xl text-gray-300 mb-10 font-light"
           >
-            Premium Garment Development &amp; Manufacturing in China. <br className="hidden md:block" />
-            We support brands from product development to quality control.
+            Garment manufacturing in China for European fashion, sportswear and technical brands.{" "}
+            <br className="hidden md:block" />
+            From tech pack to bulk production and quality control — with DDP delivery to the EU.
           </motion.p>
 
           <motion.div
@@ -99,8 +102,8 @@ export default function HomePage() {
             </p>
             <p className="text-lg text-gray-600 mb-10 max-w-lg leading-relaxed">
               Headquartered in Hong Kong with operations in Shanghai and Hangzhou, we are the single
-              partner behind international fashion, sportswear, cycling, technical apparel, and
-              swimwear collections — from the first sample to final quality control.
+              partner behind European fashion, sportswear, cycling, technical apparel, and swimwear
+              collections — from the first sample to final quality control.
             </p>
             <div className="flex items-center space-x-8 text-sm uppercase tracking-widest text-gray-400 font-semibold border-t border-border pt-8">
               <span>Hong Kong</span>
@@ -110,8 +113,10 @@ export default function HomePage() {
           </div>
           <div className="relative h-[600px] w-full">
             <img
-              src="/images/machine.jpg"
+              src="/images/machine.webp"
               alt="Garment production machinery at the DISTRICT 88 manufacturing facility in China"
+              loading="lazy"
+              decoding="async"
               className="absolute inset-0 w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-1000 shadow-2xl"
             />
           </div>
@@ -144,6 +149,8 @@ export default function HomePage() {
                 <img
                   src={cat.img}
                   alt={`${cat.name} — garment manufacturing by DISTRICT 88 in China`}
+                  loading="lazy"
+                  decoding="async"
                   className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
                 />
                 <div className="absolute inset-0 bg-black/40 group-hover:bg-black/60 transition-colors duration-500"></div>
@@ -191,8 +198,30 @@ export default function HomePage() {
               Engineered for Compliance. Built for Scale.
             </h2>
             <p className="text-lg text-gray-600 font-light leading-relaxed">
-              We bridge international brand expectations with China&apos;s leading garment manufacturing clusters. From accessible MOQs to certified sustainable textiles, every order is backed by transparent metrics and rigorous oversight.
+              We bridge European brand expectations with China&apos;s leading garment manufacturing clusters. From accessible MOQs to certified sustainable textiles, every order is backed by transparent metrics and rigorous oversight.
             </p>
+          </div>
+
+          {/* Europe-ready Strip */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-20">
+            <div className="p-8 border border-border bg-gray-50/50 hover:border-foreground transition-colors">
+              <div className="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-3">European Contact</div>
+              <p className="text-sm text-gray-600 leading-relaxed font-light">
+                A direct line and WhatsApp in Europe (+33), CET-friendly hours for calls, sample reviews, and production updates.
+              </p>
+            </div>
+            <div className="p-8 border border-border bg-gray-50/50 hover:border-foreground transition-colors">
+              <div className="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-3">DDP Delivery to the EU</div>
+              <p className="text-sm text-gray-600 leading-relaxed font-light">
+                Door-to-door sea and air freight options with customs clearance handled — FOB, CIF, or DDP, per your Incoterms.
+              </p>
+            </div>
+            <div className="p-8 border border-border bg-gray-50/50 hover:border-foreground transition-colors">
+              <div className="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-3">EU-Market Compliance</div>
+              <p className="text-sm text-gray-600 leading-relaxed font-light">
+                Materials and QC aligned with EU retail expectations: OEKO-TEX® testing, GRS, GOTS, and BSCI / Sedex social audits.
+              </p>
+            </div>
           </div>
 
           {/* Key Metrics Grid */}
@@ -271,7 +300,7 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto">
           <p className="text-sm font-bold uppercase tracking-widest text-gray-400 mb-4">FAQ</p>
           <h2 className="text-3xl md:text-5xl font-bold uppercase tracking-tight mb-16">
-            Questions Brands Ask Us.
+            Questions European Brands Ask Us.
           </h2>
           <FaqAccordion items={faqs.slice(0, 5)} />
           <div className="mt-12">

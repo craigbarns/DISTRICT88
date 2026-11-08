@@ -4,14 +4,15 @@ import { ArrowRight } from "lucide-react";
 import { site, createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Our Work — Garment Projects by Category",
+  title: "Garment Projects for European Brands",
   description:
-    "Selected garment development and manufacturing projects by DISTRICT 88: fashion & lifestyle, sportswear, cycling, technical apparel, and swimwear programs produced for international brands.",
+    "Selected garment programs manufactured in China for European and international brands — from premium jersey essentials to technical performance collections.",
   alternates: { canonical: "/our-work" },
   openGraph: {
     title: `Our Work | ${site.shortName}`,
     description:
-      "Garment programs developed and manufactured in China for international fashion, sportswear, and technical apparel brands.",
+      "Garment programs developed and manufactured in China for European fashion, sportswear, and technical apparel brands.",
+    images: ["/images/og-image.jpg"],
   },
 };
 
@@ -24,42 +25,42 @@ const projects = [
     title: "Heavyweight Cotton Program",
     category: "Fashion & Lifestyle",
     scope: "Premium jersey and fleece development, from fabric sourcing to bulk production and private label packaging.",
-    img: "/images/fashion.jpg",
+    img: "/images/fashion.webp",
     span: true,
   },
   {
     title: "Performance Sportswear Line",
     category: "Sportswear",
     scope: "Moisture-wicking training garments engineered with ergonomic construction and durable synthetics.",
-    img: "/images/sportswear.jpg",
+    img: "/images/sportswear.webp",
     span: false,
   },
   {
     title: "Aerodynamic Cycling Collection",
     category: "Cycling",
     scope: "Technical cycling apparel with aerodynamic patterning, advanced sublimation, and precision fit development.",
-    img: "/images/cycling.jpg",
+    img: "/images/cycling.webp",
     span: false,
   },
   {
     title: "Technical Outerwear Program",
     category: "Technical Apparel",
     scope: "Advanced fabric constructions with breathable membranes, stretch panels, and reinforced detailing for demanding applications.",
-    img: "/images/technical.jpg",
+    img: "/images/technical.webp",
     span: true,
   },
   {
     title: "Resort & Competition Swimwear",
     category: "Swimwear",
     scope: "High-stretch, chlorine-resistant swimwear combining technical fit with refined finishing.",
-    img: "/images/swimwear.jpg",
+    img: "/images/swimwear.webp",
     span: false,
   },
   {
     title: "Material Development Library",
     category: "Materials",
     scope: "Sourced and tested fabric programs: cotton blends, performance synthetics, and 4-way stretch technical textiles.",
-    img: "/images/tech-material.jpg",
+    img: "/images/tech-material.webp",
     span: false,
   },
 ];
@@ -90,6 +91,8 @@ export default function OurWork() {
             <img
               src={project.img}
               alt={`${project.title} — ${project.category} garment manufacturing by DISTRICT 88`}
+              loading="lazy"
+              decoding="async"
               className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-black/40 group-hover:bg-black/60 transition-colors duration-500"></div>

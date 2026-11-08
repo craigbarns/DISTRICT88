@@ -3,9 +3,9 @@ import Link from "next/link";
 import { createBreadcrumbJsonLd } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Manufacturing Capabilities — Fashion, Sportswear, Cycling, Technical, Swimwear",
+  title: "Garment Manufacturing Capabilities in China",
   description:
-    "Explore the manufacturing capabilities of DISTRICT 88: Fashion & Lifestyle, Sportswear, Cycling, Technical Apparel, and Swimwear — unified by strict quality control and international communication.",
+    "Manufacturing capabilities across fashion, sportswear, cycling, technical apparel and swimwear — with EU-ready compliance and quality control.",
   alternates: { canonical: "/capabilities" },
 };
 
@@ -17,31 +17,31 @@ const capabilities = [
   {
     title: "Fashion & Lifestyle",
     desc: "From everyday essentials to premium fashion collections. We handle everything from heavy cotton jerseys to delicate finishes.",
-    img: "/images/fashion.jpg",
+    img: "/images/fashion.webp",
     slug: "fashion",
   },
   {
     title: "Sportswear",
     desc: "Performance garments engineered for movement. We utilize advanced synthetics and ergonomic construction.",
-    img: "/images/sportswear.jpg",
+    img: "/images/sportswear.webp",
     slug: "sportswear",
   },
   {
     title: "Cycling",
     desc: "Technical cycling apparel designed around performance, fit, and functionality. Aerodynamic fits and advanced sublimation.",
-    img: "/images/cycling.jpg",
+    img: "/images/cycling.webp",
     slug: "cycling",
   },
   {
     title: "Technical Apparel",
     desc: "Advanced fabrics and constructions for demanding applications. Moisture management, stretch, and breathable panels.",
-    img: "/images/technical.jpg",
+    img: "/images/technical.webp",
     slug: "technical",
   },
   {
     title: "Swimwear",
     desc: "Custom swimwear combining fit, materials, and technical construction with high-stretch chlorine-resistant fabrics.",
-    img: "/images/swimwear.jpg",
+    img: "/images/swimwear.webp",
     slug: "swimwear",
   }
 ];
@@ -65,7 +65,7 @@ export default function Capabilities() {
           <div key={cap.slug} className={`flex flex-col ${i % 2 !== 0 ? 'md:flex-row-reverse' : 'md:flex-row'} gap-12 items-center`}>
             <div className="w-full md:w-1/2">
               <div className="aspect-[4/5] overflow-hidden bg-gray-100">
-                <img src={cap.img} alt={`${cap.title} garment manufacturing by DISTRICT 88 in China`} className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
+                <img src={cap.img} alt={`${cap.title} garment manufacturing by DISTRICT 88 in China`} loading="lazy" decoding="async" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
               </div>
             </div>
             <div className="w-full md:w-1/2 space-y-6">
