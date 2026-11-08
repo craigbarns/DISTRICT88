@@ -19,6 +19,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: "/fr/services", priority: 0.8, changeFrequency: "monthly" as const },
     { path: "/fr/faq", priority: 0.8, changeFrequency: "weekly" as const },
     { path: "/fr/contact", priority: 0.8, changeFrequency: "monthly" as const },
+    { path: "/cycling", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/swimwear", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/sportswear", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/technical-apparel", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/insights", priority: 0.8, changeFrequency: "weekly" as const },
+    { path: "/insights/find-clothing-manufacturer-china", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/oem-vs-odm-clothing-manufacturing", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/clothing-manufacturing-cost-china", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/clothing-moq-guide", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/china-vs-portugal-clothing-manufacturing", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/china-turkey-vietnam-apparel-sourcing", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/apparel-label-requirements-eu-us", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/pfas-reach-apparel-sourcing", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/apparel-import-duties-landed-cost", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/insights/tech-pack-guide-fashion-brands", priority: 0.7, changeFrequency: "monthly" as const },
   ];
 
   const enUrl = (path: string) => `${site.url}${path === "" ? "" : path}`;

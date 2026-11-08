@@ -53,6 +53,7 @@ export const navLinks = [
   { name: "Services", href: "/services" },
   { name: "Materials", href: "/materials" },
   { name: "Our Work", href: "/our-work" },
+  { name: "Insights", href: "/insights" },
   { name: "FAQ", href: "/faq" },
   { name: "About", href: "/about" },
 ];
@@ -62,6 +63,7 @@ export const frNavLinks = [
   { name: "Services", href: "/services" },
   { name: "Matières", href: "/materials" },
   { name: "Réalisations", href: "/our-work" },
+  { name: "Guides", href: "/insights" },
   { name: "FAQ", href: "/faq" },
   { name: "À propos", href: "/about" },
 ];

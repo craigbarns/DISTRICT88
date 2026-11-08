@@ -4,6 +4,7 @@ import { usePathname } from "next/navigation";
 import Link from "next/link";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import Consent from "./Consent";
 import { navLinks, frNavLinks, site } from "@/lib/site";
 
 const frFooterBlurb = (
@@ -52,6 +53,7 @@ export default function Chrome({ children }: { children: React.ReactNode }) {
         contactLinkLabel={fr ? "Contact" : undefined}
         rightsLabel={fr ? "Tous droits réservés." : undefined}
       />
+      <Consent fr={fr} />
     </>
   );
 }
