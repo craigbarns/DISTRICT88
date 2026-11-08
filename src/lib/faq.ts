@@ -30,6 +30,26 @@ export const faqs: FaqItem[] = [
       "We source through certified partner mills and facilities adhering to recognized international standards. Available certifications upon request include OEKO-TEX Standard 100 (harmful substance testing), GRS (Global Recycled Standard for recycled polyester and nylon), GOTS for organic cotton, and social compliance audits such as BSCI and Sedex.",
   },
   {
+    question: "Do you ship to Europe, and how long does delivery take?",
+    answer:
+      "Yes — European destinations are our core market. We ship worldwide via express air courier, air freight, and ocean freight, under FOB, CIF, or door-to-door DDP arrangements with customs clearance. As a guideline, production departures from Shanghai/Ningbo reach North European ports in roughly 30–40 days by sea, or a few days by express air. Exact transit depends on the Incoterm, season, and final destination.",
+  },
+  {
+    question: "Who handles EU customs, duties, and import paperwork?",
+    answer:
+      "Under FOB or CIF, your nominated forwarder handles import clearance in the EU. Under DDP, we arrange door-to-door delivery with customs clearance handled on our side, so garments arrive ready to sell. In all cases we prepare the full export documentation set — commercial invoice, packing list, HS-code classification support — and coordinate with your broker or ours.",
+  },
+  {
+    question: "Are your materials compliant with EU requirements (REACH, OEKO-TEX)?",
+    answer:
+      "Our partner mills can supply OEKO-TEX® Standard 100 tested fabrics, and we guide REACH substance-compliance checks for EU-bound programs. Tell us your destination market during the brief: we match mills and testing to EU retail expectations before sampling, so compliance is built into the program rather than retrofitted before dispatch.",
+  },
+  {
+    question: "What about the EU GPSR responsible-person requirement?",
+    answer:
+      "Brands selling into the EU typically act as importer and must designate a responsible person under the GPSR (in force since 13 December 2024). We support your compliance with accurate technical documentation, product labeling (fiber composition, care symbols, country of origin), and batch traceability so your products meet EU market requirements.",
+  },
+  {
     question: "Does DISTRICT 88 handle product development and tech packs?",
     answer:
       "Yes. DISTRICT 88 covers the full development cycle: digital pattern making, grading, construction engineering, technical solutions, and material sourcing. Brands can submit completed tech packs, physical reference garments, 3D CAD files, or creative sketches with dimensional briefs.",
